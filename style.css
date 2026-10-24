@@ -20,7 +20,7 @@ body {
 
 .container {
   width: 375px;
-  min-height: 67vh;
+  max-height: 490px;
   min-height: 67dvh;
   background-color: var(--white);
   border-radius: 15px;
